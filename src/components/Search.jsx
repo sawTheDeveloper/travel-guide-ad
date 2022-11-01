@@ -9,15 +9,13 @@ const Search = () => {
         <div>
           <h2>LUXURY INCLUDED VACATIONS FOR TWO PEOPLE</h2>
           <p className='py-4'>
-            Come experience the very pinnacle of luxury Caribbean all-inclusive
-            vacations for couples at BEACHES Resorts. Our luxury beach resorts,
-            set along the most gorgeous tropical settings and exquisite beaches
-            in Saint Lucia, Jamaica, Antigua, The Bahamas, Grenada, Barbados and
-            Curaçao, feature unlimited gourmet dining, unique bars serving
-            premium liquors and wines, and every land and water sport, including
-            complimentary green fees at our golf resorts and certified scuba
-            diving at most resorts. If you are planning a wedding, BEACHES is
-            the leader in Caribbean destination weddings and honeymoon packages.
+          Rising majestically above the 600 acre beach front resort of Anse Chastanet, Jade Mountain Resort on St. Lucia’s south-western Caribbean coastline is a cornucopia of organic architecture celebrating St. Lucia’s stunning scenic beauty.Architect owner Nick Troubetzkoy has expanded upon his philosophy of building in harmony with Caribbean nature in his creation of Jade Mountain St. Lucia. The bold architectural design – individual bridges leading to exceptional infinity pool sanctuaries and rugged stoned-faced columns reaching towards the sky – makes Jade Mountain St. Lucia one of the Caribbean’s most mesmerizing resort experiences.Expect grand sweeping spaces where bedroom, living area and an extravagant private infinity pool glide into one another to form extraordinary platforms floating out into nature. With the fourth wall entirely absent, Jade Mountain’s sanctuaries are stage-like settings from which to embrace the full glory of St. Lucia’s Pitons World Heritage Site, and of course, the eternal Caribbean Sea.
+
+Wrapped around an infinity pool with a dazzling kaleidoscope of colors, the Jade Mountain Club celebrates James Beard Award winner Chef Allen Susser’s “Jade Cuisine.” Hovering in space above the Jade Mountain Club is the Celestial Terrace, perfect for sunset cocktails or star-gazing.
+
+A wide range of spa services can be enjoyed in the privacy of the Jade Mountain sanctuaries or at Kai en Ciel, Jade Mountain’s boutique spa and fitness studio. The resort major domos and a dedicated resort team ensure outstanding service around the clock.
+
+Enjoy the exclusivity and privacy of Jade Mountain with all of sister resort Anse Chastanet’s restaurants, bars, boutiques, art gallery, spa, scuba, bike and watersports facilities as well as 2 soft sand beaches available and easily accessible to Jade Mountain guests by foot or resort shuttle at all times.
           </p>
         </div>
         <div className='grid sm:grid-cols-2 gap-8 py-4'>
@@ -52,10 +50,10 @@ const Search = () => {
               <div className='flex flex-col my-2'>
                   <label>Destination</label>
                   <select className='border rounded-md p-2'>
-                      <option>Grande Antigua</option>
-                      <option>Key West</option>
-                      <option>Maldives</option>
-                      <option>Cozumel</option>
+                      <option>Jade Mountain</option>
+                      <option>Anse Chastanet</option>
+                      <option>Ladera Resort</option>
+                      <option>Stonefield Villa</option>
                   </select>
               </div>
               <div className='flex flex-col my-4'>
